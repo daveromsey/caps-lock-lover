@@ -1,5 +1,6 @@
 ; Autohotkey Capslock Remapping Script 
 ; Danik
+; More info at http://danikgames.com/blog/?p=714
 ; danikgames.com
 ; 
 ; Functionality:
