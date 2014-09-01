@@ -8,7 +8,7 @@
 ; - Hold Capslock and drag anywhere in a window to move it (not just the title bar).
 ; - Access the following functions when pressing Capslock: 
 ;     Cursor keys           - J, K, L, I
-;     Space                 - Enter
+;     Enter                 - Space
 ;     Home, PgDn, PgUp, End - U, O, Y, H
 ;     Backspace and Del     - N, M
 ;
