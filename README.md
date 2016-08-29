@@ -1,6 +1,6 @@
 # Keyboard Goodies #
 
-An AutoHotkey keyboard enhancement script.
+An AutoHotkey keyboard enhancement script. Disables the Caps Lock key by default and turns it into a powerful modifier key allowing users to keep their hands on the home row.
 
 ## Acknowledgements ##
 This script is mostly assembled from modified versions of the following awesome scripts:
