@@ -1,4 +1,4 @@
-# keyboard-goodies
+# Keyboard Goodies #
 
 ## Acknowledgements ##
 This script is mostly assembled from modified versions of the following awesome scripts:
