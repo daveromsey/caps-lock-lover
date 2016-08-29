@@ -3,7 +3,7 @@
 ## Acknowledgements ##
 This script is mostly assembled from modified versions of the following awesome scripts:
 
-### [Caps Lock Remap by Danik](https://gist.github.com/Danik/5808330/raw/d572399237ee5f1ccb3a50ba7ae3ebdc0df71883/capslock_remap_alt.ahk) More info [here](http://danikgames.com/blog/?p=714). ###
+### [Caps Lock Remap by Danik](https://gist.github.com/Danik/5808330/raw/d572399237ee5f1ccb3a50ba7ae3ebdc0df71883/capslock_remap_alt.ahk) ###
 
 Changes:
 
@@ -19,7 +19,9 @@ Changes:
 
 ### [Linux Alt + Window Drag Functionality in Windows](http://www.howtogeek.com/howto/windows-vista/get-the-linux-altwindow-drag-functionality-in-windows/) ###
 
-Changes: The only change was using Caps Lock instead of Alt. This also removes problems in certain applications.
+Changes:
+
+The only change was using Caps Lock instead of Alt. This also removes problems in certain applications.
 
 ## Other Resources ##
 
