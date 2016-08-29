@@ -1,5 +1,7 @@
 # Keyboard Goodies #
 
+An AutoHotkey keyboard enhancement script.
+
 ## Acknowledgements ##
 This script is mostly assembled from modified versions of the following awesome scripts:
 
