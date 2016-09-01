@@ -1,8 +1,8 @@
 # Caps Lock Lover #
 
-Do you hate the Caps Lock Key? Would you like to disable it? This AutoHotkey script might just give you a change of heart. Caps Lock Lover transforms that pesky caps lock key into a powerful modifier allowing you to perform many functions without needing to move your hands away from the home position of the keyboard. Fall in love with the caps lock key!
+Do you hate the caps lock key? Would you like to disable it? This AutoHotkey script might just give you a change of heart. *Caps Lock Lover* transforms the pesky caps lock key into a powerful modifier key, enabling you to perform various keystrokes without moving your hands away from the keybopard's home position. Fall in love with the caps lock key!
 
-By default, the caps lock key will be disabled (no more accidental caps locking). Holding the caps lock key while pressing various other keys will trigger the designated functionality. Check out the keyboard legend graphic to see things are set up at a glance. Further details about functionality are outlined within the script. 
+By default, the caps lock key will be disabled (no more accidental caps locking). Holding the caps lock key while pressing shortcut keys will trigger the assigned functionality. Check out the keyboard legend graphic to see things are set up. Further details about the configuration are explained within the script. 
 
 ![Keyboard Legend](/keyboard-legend.png?raw=true "Keyboard Legend")
 
