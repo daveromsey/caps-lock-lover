@@ -23,7 +23,7 @@
 ;     Cut, Copy, Paste        - s, d, f
 ;     Esc                     - r
 ;     Close Tab               - t
-;     Next Tab, Previous Tab  - Tab, q
+;     Previous Tab, Next Tab  - Tab, q
 ;     Close Window            - v
 ;  
 ; - Hold Capslock and drag anywhere in a window to move it (not just the title bar).
@@ -167,15 +167,15 @@ Capslock & r::SendInput {Blind}{Esc Down}
 Capslock & Space::SendInput {Enter Down}
 
 
-; Next Tab
-; Caps Lock + q
-Capslock & q::SendInput {Ctrl Down}{Tab Down}
-Capslock & q up::SendInput {Ctrl Up}{Tab Up}
-
 ; Previous Tab
 ; Caps Lock + Tab
 Capslock & Tab::SendInput {Ctrl Down}{Shift Down}{Tab Down}
 Capslock & Tab up::SendInput {Ctrl Up}{Shift Up}{Tab Up}
+
+; Next Tab
+; Caps Lock + q
+Capslock & q::SendInput {Ctrl Down}{Tab Down}
+Capslock & q up::SendInput {Ctrl Up}{Tab Up}
 
 ; Close Tab
 ; Caps Lock + t
