@@ -4,7 +4,7 @@ Do you hate the Caps Lock Key? Would you like to disable it? This AutoHotkey scr
 
 By default, the caps lock key will be disabled (no more accidental caps locking). Holding the caps lock key while pressing various other keys will trigger the designated functionality. Check out the keyboard legend graphic to see things are set up at a glance. Further details about functionality are outlined within the script. 
 
-![Alt text](/keyboard-legend.svg "Keyboard Legend")
+![Keyboard Legend](/keyboard-legend.png?raw=true "Keyboard Legend")
 
 This configuration suits my personal preferences but may not be right for you. For example, the cursor keys are mapped to IJKL to mirror the familiar WASD configuration used on the left side of the keyboard in many games. Other folks might prefer using HJKL for the cursor keys, and that's totaly cool. Forking is encouraged.
 
