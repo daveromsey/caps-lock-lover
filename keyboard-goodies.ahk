@@ -12,9 +12,10 @@
 ;     Cursor Keys             - i, j, k, l (Up, Left, Down, Right - just like w, a, s, d)
 ;     Home, End               - h, ;
 ;			PgUp, PgDn              - u, o
-;     Backspace and Delete    - n, m
+;     Backspace, Delete       - n, m
 ;     Insert                  - b or Insert (The insert key is deactivated by default.)
-;     Undo, Redo              - , and .
+;     Undo                    - ,
+;     Redo                    - .
 ;
 ;     Space                   - Enter
 ;
